@@ -4,6 +4,8 @@ It is an [Ansible](http://www.ansible.com/home) role to install and configure
 nginx. It has first class support for Let's Encrypt but works out of the box
 with self signed SSL certificates for non-production environments.
 
+Fork info: Applied PRs #17 #9 #11
+
 ##### Supported platforms:
 
 - Ubuntu 16.04 LTS (Xenial)
